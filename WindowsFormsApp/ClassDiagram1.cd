@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApp.FilterForm">
+    <Position X="2.5" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AkAAAAAAACABABgAAASAAAQCAgAABAABAAAgAAAAAAA=</HashCode>
+      <FileName>FilterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp.FindForm">
+    <Position X="10" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAASAAAACQgAAAAAAAAAAAAIAAAQ=</HashCode>
+      <FileName>FindForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp.InputForm">
+    <Position X="7.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ALAAAQQAAGAAkAAAABCIAAACAoISAEIAIABAFCACACA=</HashCode>
+      <FileName>InputForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp.Job">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAUCAAiAAggAAAAAIAAAQIQAAAAAAAAQAAYAAAAAA=</HashCode>
+      <FileName>Jobs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp.JobList">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAEAwAAAAABAIAAgAAAAAAgAggAA=</HashCode>
+      <FileName>Jobs.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Jobs" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="WindowsFormsApp.MainForm">
+    <Position X="5.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>FgAEQAAAACABAAAIABCCQAQGQAEABCBECEAAAIJAAhI=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="jobList" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WindowsFormsApp.SortForm">
+    <Position X="10" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAASCAAAGIgUAACAAAAAAAIAAABA=</HashCode>
+      <FileName>SortForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
